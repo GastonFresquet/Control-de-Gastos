@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "Colegio Lucía"
+  ],
+  "people": [
+    "Ivana"
+  ],
+  "monthly_incomes": [
+    {
+      "person": "Ivana",
+      "amount": "2400000.00",
+      "month": "2026-01"
+    }
+  ],
+  "extra_incomes": [],
+  "expenses": [
+    {
+      "category": "Colegio Lucía",
+      "amount": "150000.00",
+      "dt": "2026-01-03",
+      "note": ""
+    }
+  ]
+}
